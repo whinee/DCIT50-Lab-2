@@ -1,0 +1,19 @@
+################################################################################
+#                                 USER DEFINED                                 #
+################################################################################
+
+# User-defined Ignored Folders
+.history/
+squashfs-root/
+laboratory.docx
+laboratory.pdf
+
+# User-defined Ignored Files
+**/*.bak
+**/*.bak.*
+**/*.class
+**/*.test.*
+**/*.old
+**/*.old.*
+**/t[0-9]*.*
+**/test.*
