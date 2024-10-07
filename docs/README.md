@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold">
-    DCIT23 Finals Group Work
+    DCIT50 Lab 2
 </h1>
 
 <p align="center">
